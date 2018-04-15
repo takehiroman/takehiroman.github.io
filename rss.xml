@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Zakimoto Site]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 15 Apr 2018 15:55:32 GMT</lastBuildDate><item><title><![CDATA[会社の研修が終わった]]></title><description><![CDATA[先週の金曜日に会社の研修が終わった。期間は2週間だが実質先々週の水曜日から先週金曜の平日の間と考えると9日間となる。 何をやったか 新卒でチームを組んでwebアプリケーションの開発をした。僕のチームではそれぞれがインフラ(AWSやDocker…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//会社の研修が終わった/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//会社の研修が終わった/</guid><pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;先週の金曜日に会社の研修が終わった。期間は2週間だが実質先々週の水曜日から先週金曜の平日の間と考えると9日間となる。&lt;/p&gt;
+&lt;h3&gt;何をやったか&lt;/h3&gt;
+&lt;p&gt;新卒でチームを組んでwebアプリケーションの開発をした。僕のチームではそれぞれがインフラ(AWSやDocker)担当、バックエンド担当、フロントエンド担当、テスト担当と役割を分けてそれぞれで開発をした。僕はフロントエンド担当としてやってた。&lt;/p&gt;
+&lt;p&gt;フロントエンドはReactを使った。これは会社からフロントにReactを使えという指示だったが僕にとっては使ったことがあるし書いてて楽しいこともあって割と楽しくこなすことができた。&lt;/p&gt;
+&lt;p&gt;個人的には今回リアルタイム通信を実装する部分がありそれに&lt;a href=&quot;https://socket.io/&quot;&gt;Socket.io&lt;/a&gt;を使った。使ったことのないツールだったので不安だったが、少ないコードでなんとか仕様を満たす実装ができた。割と力技で実装したのでもっと良い方法があるとは思う。&lt;/p&gt;
+&lt;h3&gt;終わってみてどうだったか&lt;/h3&gt;
+&lt;p&gt;チーム開発は何度か経験したが今までのものはあまりコードを書いて貢献できたものが少なかった。今回はほぼフロントを任せてもらえてReactを好きに使えてコードを書けたのでなかなか楽しかった。しかし書き方はあまり良いとは思ってなくて自分よりReactに経験のある人にこの書き方はダメとかこれは良いとかのコードレビューみたいなものがもらいたかった。あとはそれぞれの機能の実装にどれくらいかかるのか見積もりなどを一切やらずに開発してたのでその部分をちゃんとやると前回よりどれくらい早くなったのかも見れてよかったのかなと思った。&lt;/p&gt;
+&lt;p&gt;明日から配属が決まってその中での仕事が始まるのでしばらくは仕事で使う言語やフレームワークやツールを覚えながら空いた時間にまたReactとか触る感じの生活にしたい。&lt;/p&gt;
+&lt;p&gt;終わり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[個人サイトを変更した]]></title><description><![CDATA[卒業の節目に個人サイトを色々変更した。 以前のサイトはJekyllを使ってた。使っていた理由は昔研究室のHPがそれを使っていたのでそれを真似しただけ。 今回は Gatsby…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//個人サイトを変更した/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//個人サイトを変更した/</guid><pubDate>Mon, 26 Mar 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;卒業の節目に個人サイトを色々変更した。&lt;/p&gt;
+&lt;p&gt;以前のサイトはJekyllを使ってた。使っていた理由は昔研究室のHPがそれを使っていたのでそれを真似しただけ。&lt;/p&gt;
+&lt;p&gt;今回は&lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;Gatsby&lt;/a&gt;という静的サイトジェネレーターを使うことにした。&lt;/p&gt;
+&lt;p&gt;きっかけは&lt;a href=&quot;https://speakerdeck.com/nnjyami/gatsby-super-fast&quot;&gt;このスライド&lt;/a&gt;を見たから。爆速サイトにしたかった。実際速い。&lt;/p&gt;
+&lt;p&gt;Reactやらのフロント周りを個人で触る機会が増えたのでこれで慣れていく。サイトの見た目は現在テンプレのままだけどあとから色々変えていきたい。&lt;/p&gt;
+&lt;p&gt;あとブログの方も以前使ってたはてなブログよりここに書いていく方が爆速だし自由そうなのでスターをもらうのも卒業していきたい。はてなのサービスは変わらず好きだけど。&lt;/p&gt;
+&lt;p&gt;とりあえずちょいちょいなんか書いていきたいと思います。&lt;/p&gt;
+&lt;p&gt;終わり。&lt;/p&gt;</content:encoded></item></channel></rss>

@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{509:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Zakimoto Site"}},allMarkdownRemark:{edges:[{node:{excerpt:"卒業の節目に個人サイトを色々変更した。 以前のサイトはJekyllを使ってた。使っていた理由は昔研究室のHPがそれを使っていたのでそれを真似しただけ。 今回は Gatsby…",fields:{slug:"/個人サイトを変更した/"},frontmatter:{date:"26 March, 2018",title:"個人サイトを変更した"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-0ff7a69dd1e9f42d5f2c.js.map
